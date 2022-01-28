@@ -1,0 +1,1 @@
+const myArray = [['Pedro', 43], ['André', 16]];

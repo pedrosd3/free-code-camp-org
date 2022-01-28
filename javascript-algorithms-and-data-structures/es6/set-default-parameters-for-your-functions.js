@@ -1,0 +1,1 @@
+const increment = (number = 1, value = 1) => number + value;
